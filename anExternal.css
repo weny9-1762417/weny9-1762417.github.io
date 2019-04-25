@@ -9,7 +9,6 @@ body{
     margin-top: 20px;
     border:solid 5px lightgray;
     text-align: center;
-    
 }
 #RightNav{
     border:solid 5px black;
@@ -19,7 +18,7 @@ body{
     padding-bottom: 8px;
 }
 #Content{
-    border:solid 5px black;
+    border:dotted 5px black;
     text-align: left;
     width: 800px;
     margin-left: auto;
@@ -28,6 +27,13 @@ body{
     padding: 20px;
     background-color:lightblue; 
 }
+#picture{
+    border:dotted 5px black;
+    margin-left: 20px;
+    margin-right:20px;
+    margin-bottom:20px;
+    float:right;
+}
 p#firstParagraph{
     font-size: 12pt;
     font-family: 'Times New Roman', Times, serif;
@@ -35,5 +41,4 @@ p#firstParagraph{
 p#secondParagraph{
     font-size: 11pt;
     font-family: Arial, Helvetica, sans-serif
-
 }
