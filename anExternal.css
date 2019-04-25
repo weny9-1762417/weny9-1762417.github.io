@@ -7,11 +7,11 @@ body{
     margin-right: auto;
     margin-bottom: 40px;
     margin-top: 20px;
-    border:solid 5px lightgray;
+    border:dotted 5px black;
     text-align: center;
 }
 #RightNav{
-    border:solid 5px black;
+    border:dotted 5px black;
     float: left;
     text-align: center;
     width: 200px;
@@ -29,9 +29,7 @@ body{
 }
 #Picture{
     border:dotted 5px black;
-    margin-left: 20px;
-    margin-right:20px;
-    margin-bottom:20px;
+    margin:20px;
     float:right;
 }
 p#firstPara{
@@ -41,4 +39,17 @@ p#firstPara{
 p#secondPara{
     font-size: 11pt;
     font-family: Arial, Helvetica, sans-serif;
+}
+#rcorners{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background: lightsalmon;
+    padding: 2px; 
+    width: 100px;
+    height: 60px;  
+    float:left;
+    margin:8px;
+    font-size: 10pt;
 }
