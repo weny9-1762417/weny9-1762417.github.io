@@ -11,7 +11,7 @@ h2{
 }
 
 input{
-    width: 50%;
+    width: 70%;
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
@@ -25,7 +25,7 @@ fieldset{
     margin-right: auto;
     margin-bottom: 40px;
     margin-top: 20px;
-    border:dotted 5px black;
+    border: 5px black;
     text-align: center;
     text-size-adjust: 12;
 }
@@ -46,12 +46,8 @@ form{
     color:blue;
 }
 
-#checkbox{
-    border: 10in;
-}
-
 select{
-    width: 50%;
+    width: 70%;
     padding: 12px 20px;
     margin: 8px 0;
     background-color: lightslategray;
